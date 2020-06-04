@@ -3,7 +3,6 @@
 	"displayName": "tablecreator",
 	"description": "create a new table.",
 	"version": "0.0.1",
-	"icon": "app.png",
 	"engines": {
 		"vscode": "^1.45.0"
 	},

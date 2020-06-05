@@ -19,7 +19,11 @@
 		"commands": [
 			{
 				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"title": "Hello World",
+				"icon": {
+					"dark": "w.svg",
+					"light": "b.svg"
+				}
 			}
 		]
 	},

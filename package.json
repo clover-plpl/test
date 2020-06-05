@@ -3,7 +3,7 @@
 	"displayName": "test",
 	"description": "test dayo!",
 	"version": "0.0.1",
-	"icon": "https://github.com/clover-plpl/test/blob/master/app.png",
+	"icon": "app.png",
 	"publisher": "example-publisher",
 	"engines": {
 		"vscode": "^1.45.0"

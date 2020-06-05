@@ -2,7 +2,7 @@
 	"name": "test",
 	"displayName": "test",
 	"description": "test dayo!",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"icon": "app.png",
 	"publisher": "example-publisher",
 	"engines": {
@@ -28,7 +28,6 @@
 			}
 		],
 		"menus": {
-
 			"editor/title": [
 				{
 					"command": "extension.helloWorld",

@@ -2,7 +2,7 @@
 	"name": "test",
 	"displayName": "test",
 	"description": "test dayo!",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"icon": "app.png",
 	"publisher": "example-publisher",
 	"engines": {

@@ -22,7 +22,7 @@
 				"command": "extension.helloWorld",
 				"title": "Hello World",
 				"icon": {
-					"dark": "w.svg",
+					"dark": "https://raw.githubusercontent.com/clover-plpl/test/e31e22be6da3c514c1974f06046a2201f740b638/w.svg",
 					"light": "b.svg"
 				}
 			}
